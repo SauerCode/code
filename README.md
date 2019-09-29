@@ -12,6 +12,7 @@ the median result as your definitive result, plus give the maximum and minimum.
 
 | Design | How cartesian coordinates are computed | How polar coordinates are computed | aklkl |
 | --- | --- | --- | --- |
-| Design 2: Store polar coordinates only | Computed on demand, but not stored| Simply returned |
+| Design 2: Store polar coordinates only 
+---|| Computed on demand, but not stored| Simply returned |
 | Design 3: Store cartesian coordinates only | Simply returned | Computed on demand, but not stored |
 | Design 6: Interface with designs 2 and 3 as classes implementing it. | Depends on the concrete class used | Depends on the concrete class used |
