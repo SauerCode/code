@@ -10,7 +10,7 @@ for the fixed number of iterations. Make sure that your program runs each time f
 Run each version several times to ensure that your results are consistent and use
 the median result as your definitive result, plus give the maximum and minimum.
 
-| Design | How cartesian coordinates are computed | How polar coordinates are computed |
+| Design | How cartesian coordinates are computed | How polar coordinates are computed | aklkl |
 | --- | --- | --- | --- |
 | Design 2: Store polar coordinates only | Computed on demand, but not stored| Simply returned |
 | Design 3: Store cartesian coordinates only | Simply returned | Computed on demand, but not stored |
